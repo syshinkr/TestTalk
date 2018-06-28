@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "108114941511",
+    "firebase_url": "https://testtalk-2e8be.firebaseio.com",
+    "project_id": "testtalk-2e8be",
+    "storage_bucket": "testtalk-2e8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108114941511:android:f6370b73da041f72",
+        "android_client_info": {
+          "package_name": "com.project.syshinkr.testtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108114941511-66o9tbpes321pfjl8s7n548rse10r9cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.syshinkr.testtalk",
+            "certificate_hash": "cacd5521067bca97434a00b85717c80a9197b960"
+          }
+        },
+        {
+          "client_id": "108114941511-jh54eelf6ghe9s048ppm9nvk68290bhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdPQafHVFByFa0swlZmG_qccJQ9raNf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108114941511-jh54eelf6ghe9s048ppm9nvk68290bhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
